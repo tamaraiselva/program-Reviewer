@@ -50,6 +50,6 @@ streamlit run app.py
 
 ---
 
-### 5 OUTPUT DEMO
+### 5. Demo Video:
 
-<video controls src="project/Recording 2024-12-06 152320.mp4" title="demo"></video>
+You can download or view the demo video [here](project/Recording%202024-12-06%20152320.mp4).
